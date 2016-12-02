@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <stdbool.h>
 
+//God this code is messy. I am not proud of this!
+
 int x = 0;
 int y = 0;
 int direction = 0;
